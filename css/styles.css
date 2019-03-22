@@ -1,0 +1,22 @@
+#logo {
+  width: 135px;
+  height: 138px;
+  margin: 0px;
+  padding: 0px;
+  z-index: 1;
+}
+.container {
+  padding: 10px;
+  margin: 10px;
+}
+
+#readtab {
+  margin-left: 200px;
+}
+
+
+}
+#test.col-md-2 {
+  height: 100%;
+
+}
